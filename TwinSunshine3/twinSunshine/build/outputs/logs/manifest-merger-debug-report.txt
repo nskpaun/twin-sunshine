@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:120-154
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:94-119
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:70-93
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:2:155-195
+supports-screens
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:47-74
+	android:smallScreens
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:104-131
+	android:normalScreens
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:75-103
+	android:xlargeScreens
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:132-160
+	android:anyDensity
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:3:21-46
+application
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:3-13:17
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:13:5-21:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:50-82
+	android:debuggable
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:83-109
+	android:icon
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:132-169
+	android:theme
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:170-234
+	android:isGame
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:4:110-131
+activity#com.nkspaun.TwinSunshine.UnityPlayerActivity
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:48-85
+	android:label
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:86-117
+	android:configChanges
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:118-275
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:5:276-335
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:10:18-58
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:12:5-97
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:18:9-20:39
+	android:value
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:12:71-94
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:12:16-70
+uses-sdk
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:14:3-72
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v4:23.4.0] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:14:40-69
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:14:13-39
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+		INJECTED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:15:3-65
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:15:20-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:16:3-66
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:16:20-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:17:3-78
+MERGED from [TwinSunshine3:ovrplugin:unspecified] /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/build/intermediates/exploded-aar/TwinSunshine3/ovrplugin/unspecified/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:17:20-75
+uses-feature#0x00020000
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:18:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from /Users/nspaun/GearVRProjects/TwinSunshine3/twinSunshine/src/main/AndroidManifest.xml:21:17-80

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1082956356046",
+    "firebase_url": "https://project-3681507099447153206.firebaseio.com",
+    "project_id": "project-3681507099447153206",
+    "storage_bucket": "project-3681507099447153206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082956356046:android:5642497b5e7d7080",
+        "android_client_info": {
+          "package_name": "com.twinsunshinelauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082956356046-q7pe4l3c4mboee93u0cs3kh4oj1fu5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq_ilzZj16-HVfFT_1kN7lNlGDdx5geY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082956356046:android:e9bf6efd65066bb0",
+        "android_client_info": {
+          "package_name": "com.twinsunshinelauncher.twinsunshinelauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082956356046-q7pe4l3c4mboee93u0cs3kh4oj1fu5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq_ilzZj16-HVfFT_1kN7lNlGDdx5geY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
