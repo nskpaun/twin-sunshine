@@ -1,7 +1,7 @@
 # twin-sunshine
 <snippet>
-  <content><![CDATA[
-# ${1:Twin Sunshine}
+  <content>
+# Twin Sunshine
 
 An android app that sets up presentations that can then be viewed in VR.
 
